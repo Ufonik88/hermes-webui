@@ -7,6 +7,6 @@
     "lint:runtime": "eslint --no-config-lookup -c eslint.runtime-guard.config.mjs \"static/**/*.js\""
   },
   "devDependencies": {
-    "eslint": "^10.4.0"
+    "eslint": "^10.13.0"
   }
 }
